@@ -1,0 +1,11 @@
+{
+  "name": "TermuSDK",
+  "version": "1.0",
+  "arch": "aarch64",
+  "maintainer": "Suhan-paradkar",
+  "description": "Android SDK for termux",
+  "files" : {
+    "platform-tools": "bin/",
+    "build-tools": "bin/"
+  }
+}
