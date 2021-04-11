@@ -2,7 +2,7 @@
 Android SDK with aapt2.. made 4 termux
 Currently supports aarch64 devices only...
 ## Installation
-Run the install script provided in the source code... it will automatically download from the releqses secyion and install it
+Run the install script provided in the source code... it will automatically download from the releases section and install it
 ```
 ./install.sh
 ```
