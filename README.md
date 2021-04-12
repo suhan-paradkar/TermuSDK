@@ -4,7 +4,7 @@ Currently supports aarch64 devices only...
 ## Installation
 Run the install script provided in the source code... it will automatically download from the releases section and install it
 ```
-./install.sh
+bash install.sh
 ```
 ## Build locally
 Copy the following into termux..
