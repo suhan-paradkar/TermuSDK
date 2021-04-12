@@ -1,4 +1,4 @@
-# SDKmux
+# TermuSDK
 Android SDK with aapt2.. made 4 termux
 Currently supports aarch64 devices only...
 ## Installation
